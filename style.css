@@ -55,5 +55,10 @@ button:not([disabled]):active {
   }
 }
 
+.done {
+  text-decoration: line-through;
+}
+
+
 
 
